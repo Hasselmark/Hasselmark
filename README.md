@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me: 
-I'm Mikkel. I'm currently studying for an AP degree in Computer Science, which will be completed in 2025. In my current semester I'm learning about Business Intelligence, System Development and Cypersecurity.
+I'm Mikkel. I'm currently pursuing an AP degree in Computer Science, which will be completed in 2025. In my current semester I'm learning about Business Intelligence, System Development and Cypersecurity.
 
 ### Languages and Tools:
 <div>
