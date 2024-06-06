@@ -25,7 +25,7 @@ I'm currently pursuing an AP degree in Computer Science, which will be completed
 
 ### Operating Systems
 <div>
-  <img src="https://en.wikipedia.org/wiki/MacOS#/media/File:MacOS_logo.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1280px-MacOS_logo.svg.png" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" title="kali" alt="kali" width="40" height="40"/>&nbsp;
 </div>
