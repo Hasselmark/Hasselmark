@@ -1,7 +1,8 @@
 ### Hi 👋
 
 ### About me: 
-I'm currently pursuing an AP degree in Computer Science, which will be completed in 2025. In my current semester I'm learning about business intelligence, system development and cypersecurity.
+I'm currently pursuing an AP degree in Computer Science, which will be completed January 2025. 
+
 
 ### Languages and Tools:
 <div>
@@ -20,6 +21,13 @@ I'm currently pursuing an AP degree in Computer Science, which will be completed
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+</div>
+
+### Operating Systems
+<div>
+  <img src="https://en.wikipedia.org/wiki/MacOS#/media/File:MacOS_logo.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" title="kali" alt="kali" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
