@@ -30,7 +30,11 @@ I'm currently pursuing an AP degree in Computer Science, which will be completed
   <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" title="kali" alt="kali" width="40" height="40"/>&nbsp;
 </div>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/NBSWY3DPK5XXE3DE.png" alt="TryHackMe">
+
+### Cybersecurity:
+<div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/NBSWY3DPK5XXE3DE.png" alt="TryHackMe">
+</div>
 
 
 <!--
